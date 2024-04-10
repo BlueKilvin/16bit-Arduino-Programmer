@@ -5,6 +5,6 @@ Built on an Arduino using C++.
 
 To be used alongside the 16-bit Arduino software suite.
 
- #TODO:
+ ### TODO:
  * Build a buffer reader for importing external programs.
  * Fix comments
